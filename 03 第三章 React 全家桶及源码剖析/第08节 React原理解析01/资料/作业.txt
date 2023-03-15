@@ -1,0 +1,1 @@
+实现class组件渲染，完成updateClassComponent，提交updateClassComponent代码截图。
