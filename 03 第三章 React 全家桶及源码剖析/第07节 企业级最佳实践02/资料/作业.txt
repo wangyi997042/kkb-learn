@@ -1,1 +1,0 @@
-补充课上给出的代码，使用ProTable和request参数，使得实现不使用model的情况下渲染表单。
